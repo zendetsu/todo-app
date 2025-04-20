@@ -1,4 +1,4 @@
-# UO ASSIGNMENT: TODO LIST APP 
+# COMEDY UO ASSIGNMENT: TODO LIST APP 
 (React + Django)
 
 This is a full-stack Todo App that supports CRUD operations on tasks and subtasks.  
