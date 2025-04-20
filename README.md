@@ -1,4 +1,5 @@
-# Todo Web App (React + Django)
+# UO ASSIGNMENT: TODO LIST APP 
+(React + Django)
 
 This is a full-stack Todo App that supports CRUD operations on tasks and subtasks.  
 Tasks can be marked complete only when all subtasks are completed
